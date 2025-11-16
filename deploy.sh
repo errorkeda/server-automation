@@ -1,7 +1,4 @@
 #!/bin/bash
-fi
-
-
 # copy build to nginx root
 FRONT_BUILD_DIR="build"
 if [ -d "$FRONT_BUILD_DIR" ]; then
